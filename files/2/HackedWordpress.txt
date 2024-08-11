@@ -1,0 +1,28 @@
+http://192.168.56.107/wp-login.php
+ Username: admin
+ Password: JVOENpFC1Uor
+-----------------------------------------
+http://192.168.56.107//wp-login.php
+ Username: admin
+ Password: JVOENpFC1Uor
+-----------------------------------------
+http://192.168.56.107/wp-login.php
+ Username: admin
+ Password: JVOENpFC1Uor
+-----------------------------------------
+http://192.168.56.107//wp-login.php
+ Username: admin
+ Password: JVOENpFC1Uor
+-----------------------------------------
+http://192.168.56.107/wp-login.php
+ Username: admin
+ Password: JVOENpFC1Uor
+-----------------------------------------
+http://192.168.56.107/wp-login.php
+ Username: admin
+ Password: JVOENpFC1Uor
+-----------------------------------------
+http://192.168.56.107//wp-login.php
+ Username: admin
+ Password: JVOENpFC1Uor
+-----------------------------------------
