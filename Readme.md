@@ -43,7 +43,7 @@ The previous version of Lucille has been fully removed. This is version 2, which
 
 
 ```bash
-git clone https://github.com/yourusername/lucille.git
+git clone https://github.com/jasonxtn/lucille.git
 cd Lucille
 pip install -r requirements.txt
 ```
