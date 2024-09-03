@@ -1,8 +1,8 @@
 <h1 align="center">
   <a href="">
     <picture>
-      <source height="125" media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/7Xc0YA6.png">
-      <img height="125" alt="Fiber" src="https://i.imgur.com/6C2T2SU.png">
+      <source height="200" media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/7Xc0YA6.png">
+      <img height="200" alt="Fiber" src="https://i.imgur.com/6C2T2SU.png">
     </picture>
   </a>
   <br>
